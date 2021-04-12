@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SEM</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="gallows">Gallows</string>
+    <string name="pairs">Pairs</string>
+    <string name="tictactoe">TicTacToe</string>
+    <string name="sound_button">Sound</string>
+    <string name="flipps">Flipps:</string>
+</resources>
