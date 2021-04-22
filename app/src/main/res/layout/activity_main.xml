@@ -4,15 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="@android:color/holo_blue_dark"
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/blue_sky"
-        android:scaleType="centerCrop" />
-
+        android:src="@drawable/bc_main"
+        android:scaleType="centerCrop"
+        android:id="@+id/background"
+        android:contentDescription="@android:string/cut" />
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
