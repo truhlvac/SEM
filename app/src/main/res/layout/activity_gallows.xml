@@ -9,7 +9,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/blue_sky"
+        android:src="@drawable/bc_main"
         android:scaleType="centerCrop" />
 
     <TextView

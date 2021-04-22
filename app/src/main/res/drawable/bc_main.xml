@@ -9,11 +9,61 @@
         android:height="48dp"
         android:width="48dp"
         android:top="10dp"
-        android:left="15dp"/>
+        android:left="35dp"/>
     <item
         android:drawable="@drawable/ic_baseline_cloud_24"
         android:height="48dp"
         android:width="48dp"
         android:top="56dp"
         android:left="98dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="48dp"
+        android:width="48dp"
+        android:top="0dp"
+        android:left="125dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="48dp"
+        android:width="48dp"
+        android:top="100dp"
+        android:left="55dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="48dp"
+        android:width="48dp"
+        android:top="130dp"
+        android:left="110dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="48dp"
+        android:width="48dp"
+        android:top="152dp"
+        android:left="40dp"/>
+
+
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="24dp"
+        android:width="24dp"
+        android:top="40dp"
+        android:left="90dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="24dp"
+        android:width="24dp"
+        android:top="80dp"
+        android:left="50dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="24dp"
+        android:width="24dp"
+        android:top="100dp"
+        android:left="140dp"/>
+    <item
+        android:drawable="@drawable/ic_baseline_cloud_24"
+        android:height="24dp"
+        android:width="24dp"
+        android:top="170dp"
+        android:left="120dp"/>
 </layer-list>
