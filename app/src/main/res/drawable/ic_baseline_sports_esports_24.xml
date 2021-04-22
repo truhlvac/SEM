@@ -6,7 +6,7 @@
     <group
         android:pivotY="12"
         android:pivotX="12"
-        android:rotation="">
+        android:rotation="-23">
         <path android:fillColor="#66FF00"
             android:pathData="M21.58,16.09
                 l-1.09,-7.66
