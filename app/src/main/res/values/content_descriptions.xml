@@ -1,0 +1,14 @@
+<resources>
+    <string name="cd_app_name">The name of application is WUAP</string>
+    <string name="cd_settings">Opens settings page after clicking</string>
+    <string name="cd_login">Opens Log-in pop up</string>
+    <string name="cd_hangman">Opens menu for game of Hangman</string>
+    <string name="cd_pairs">Opens menu for game of Pairs</string>
+    <string name="cd_tictactoe">Openc menu for game of TicTacToe</string>
+    <string name="cd_sound_button">Toggle sound settings</string>
+    <string name="cd_flips">Number of Flips</string>
+    <string name="cd_about">Opens page with description about the application</string>
+    <string name="cd_bc_main">Background of the application with blue sky</string>
+    <string name="cd_menu_layout_bc">Any brown colored menu layout background</string>
+
+</resources>

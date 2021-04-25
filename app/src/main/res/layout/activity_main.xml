@@ -78,7 +78,7 @@
         android:id="@+id/button_gallows"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/gallows"
+        android:text="@string/hangman"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button_pairs"
         app:layout_constraintStart_toStartOf="parent"
