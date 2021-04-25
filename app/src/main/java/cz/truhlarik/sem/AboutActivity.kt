@@ -7,14 +7,9 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_settings.*
 
-class SettingsActivity : AppCompatActivity() {
+class AboutActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_settings)
-
-        about_button.setOnClickListener {
-            var explicitIntent = Intent(this, AboutActivity::class.java)
-            startActivity(explicitIntent)
-        }
+        setContentView(R.layout.activity_about)
     }
 }

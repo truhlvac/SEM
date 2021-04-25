@@ -8,4 +8,6 @@
     <string name="sound_button">Sound</string>
     <string name="flips">Flips:</string>
     <string name="about">About</string>
+    <string name="about_full">In its final state, this application will be used as a crossroad to build-in games such as Hangman, Pairs or TicTacToe.</string>
+    <string name="author">Author: Václav Truhlařík</string>
 </resources>

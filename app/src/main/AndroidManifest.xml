@@ -19,6 +19,7 @@
         <activity android:name=".games.HangmanActivity"/>
         <activity android:name=".games.PairsActivity"/>
         <activity android:name=".games.TictacActivity"/>
+        <activity android:name=".AboutActivity"/>
     </application>
 
 </manifest>
