@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".SettingsActivity"/>
-        <activity android:name=".games.GallowsActivity"/>
+        <activity android:name=".games.HangmanActivity"/>
         <activity android:name=".games.PairsActivity"/>
         <activity android:name=".games.TictacActivity"/>
     </application>

@@ -8,10 +8,10 @@ import androidx.loader.content.AsyncTaskLoader
 import androidx.loader.content.Loader
 import cz.truhlarik.sem.R
 
-class GallowsActivity : AppCompatActivity(), LoaderManager.LoaderCallbacks<String> {
+class HangmanActivity : AppCompatActivity(), LoaderManager.LoaderCallbacks<String> {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_gallows)
+        setContentView(R.layout.activity_hangman)
     }
 
     override fun onCreateLoader(id: Int, args: Bundle?): AsyncTaskLoader<String?> {

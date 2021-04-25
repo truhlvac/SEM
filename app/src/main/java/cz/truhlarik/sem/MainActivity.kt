@@ -3,7 +3,7 @@ package cz.truhlarik.sem
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import cz.truhlarik.sem.games.GallowsActivity
+import cz.truhlarik.sem.games.HangmanActivity
 import cz.truhlarik.sem.games.PairsActivity
 import cz.truhlarik.sem.games.TictacActivity
 import kotlinx.android.synthetic.main.activity_main.*
@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         button_gallows.setOnClickListener {
-            var explicitIntent = Intent(MainActivity@this, GallowsActivity::class.java)
+            var explicitIntent = Intent(MainActivity@this, HangmanActivity::class.java)
             startActivity(explicitIntent)
         }
 

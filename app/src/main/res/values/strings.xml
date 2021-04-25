@@ -2,7 +2,7 @@
     <string name="app_name">WUAP</string>
     <string name="settings">Settings</string>
     <string name="login">Login</string>
-    <string name="hangman">Gallows</string>
+    <string name="hangman">Hangman</string>
     <string name="pairs">Pairs</string>
     <string name="tictactoe">TicTacToe</string>
     <string name="sound_button">Sound</string>
